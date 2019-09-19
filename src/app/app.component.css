@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+input, label {
+    margin: 3px;
+}
+
+table {
+    width: 100%;
+    margin: 5px;
+    border-collapse: collapse;
+}
+
+td, tr, th {
+    border: 1px solid black;
+}
